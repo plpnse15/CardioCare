@@ -4,7 +4,7 @@
 
 ---
 
-## Phase 2 & 3: 최종 모델 선정 및 임상적 정당화 (1장 토론 Q1 연계)
+## Phase 2 & 3: 최종 모델 선정 및 임상적 정당화
 
 * 최종 채택 모델: 하이퍼파라미터가 최적화된 로지스틱 회귀 (Optimized Logistic Regression)
 * 임상적 가치 및 위음성(False Negative) 방어 논리:
@@ -15,7 +15,7 @@
 
 ---
 
-## MLOps 아키텍처 설계 및 논리 정당화 (서술형 문항)
+## MLOps 아키텍처 설계 및 논리 정당화
 
 ## 1. 피처 스토어(Feature Store; Feast) 도입 가치
 * 대상 피처: `patient_historical_avg_chol` (환자의 과거 5년간 평균 콜레스테롤 수치)
